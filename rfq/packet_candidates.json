@@ -2,6 +2,27 @@
   "run_date": "2026-03-15",
   "minimum_imo_fit_score": 7.0,
   "minimum_pursuit_priority_score": 7.0,
-  "opportunities_found": 0,
-  "opportunities": []
+  "opportunities_found": 1,
+  "opportunities": [
+    {
+      "canonical_id": "denver-buchtel-boulevard-public-art-rfq-2026",
+      "opportunity_name": "City of Denver: Buchtel Boulevard Public Art RFQ",
+      "type": "RFQ",
+      "budget_text": "Approximately $120,000 commission.",
+      "budget_min": 120000.0,
+      "budget_max": 120000.0,
+      "budget_currency": "USD",
+      "location_city": "Denver",
+      "location_region": "Colorado",
+      "country": "United States",
+      "url": "https://artist.callforentry.org/festivals_unique_info.php?ID=16560",
+      "imo_fit_score": 8.0,
+      "pursuit_priority_score": 8.0,
+      "deadline_date": "2026-03-19",
+      "deadline_text": "Deadline: March 19, 2026 by 11:59 pm MST.",
+      "source": "CaFÉ / Denver Public Art",
+      "eligibility_notes": "Open to artists/artist teams residing in the U.S.",
+      "why_fit_note": "Civic corridor public art commission with strong budget and active public context suited to immersive and sculptural work."
+    }
+  ]
 }
