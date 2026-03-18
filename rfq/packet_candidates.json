@@ -48,25 +48,25 @@
       "why_fit_note": "This opportunity aligns with IMO's focus on immersive, public-facing artworks that combine conceptual clarity with technical rigor."
     },
     {
-      "canonical_id": "us-ut-ogden-kiesel-ave-cable-art-project-2026",
-      "opportunity_name": "Ogden City Kiesel Ave Cable Art Project",
+      "canonical_id": "us-co-denver-buchtel-boulevard-public-art-2026",
+      "opportunity_name": "Buchtel Boulevard Public Art RFQ",
       "type": "RFQ",
-      "budget_text": "Total project budget: $120,000.",
+      "budget_text": "Approx. $120,000 commission.",
       "budget_min": 120000.0,
       "budget_max": 120000.0,
       "budget_currency": "USD",
-      "location_city": "Ogden",
-      "location_region": "Utah",
+      "location_city": "Denver",
+      "location_region": "Colorado",
       "country": "United States",
-      "url": "https://artist.callforentry.org/festivals_unique_info.php?ID=16966\n",
-      "imo_fit_score": 10.0,
-      "pursuit_priority_score": 8.0,
+      "url": "https://artist.callforentry.org/festivals_unique_info.php?ID=16560\n",
+      "imo_fit_score": 8.0,
+      "pursuit_priority_score": 7.0,
       "packet_requested": false,
-      "deadline_date": "2026-03-20",
-      "deadline_text": "Complete application must be received on or before March 20, 2026, by midnight MDT.",
-      "source": "CaFÉ / Ogden City Arts",
-      "eligibility_notes": "Open to artists nationally; Utah-based and Ogden-area artists are strongly encouraged.",
-      "why_fit_note": "Exceptionally aligned with IMO because the brief explicitly supports suspended sculptural, kinetic, and lighting-based installation in a pedestrian urban corridor."
+      "deadline_date": "2026-03-19",
+      "deadline_text": "Deadline: March 19, 2026 by 11:59 pm MST.",
+      "source": "CaFÉ Public Calls",
+      "eligibility_notes": "Open nationally to professional artists/teams.",
+      "why_fit_note": "Civic corridor public art opportunity with city scale and placemaking potential."
     }
   ]
 }
