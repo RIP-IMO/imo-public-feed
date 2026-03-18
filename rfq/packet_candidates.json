@@ -1,31 +1,10 @@
 {
-  "run_date": "2026-03-17",
+  "run_date": "2026-03-18",
   "max_packets_per_run": 3,
   "minimum_imo_fit_score": 7.0,
   "minimum_pursuit_priority_score": 7.0,
   "opportunities_found": 3,
   "opportunities": [
-    {
-      "canonical_id": "tampaairport-com-call-for-artists-2026",
-      "opportunity_name": "Call for Artists 2026",
-      "type": "Public Art Commission",
-      "budget_text": "The total budget for all artwork in Airside D, Phase 3 of the Master Plan, is $5 million. The budget for public art at Airsides A and E is a combined $820,000.",
-      "budget_min": 5820000.0,
-      "budget_max": 5820000.0,
-      "budget_currency": null,
-      "location_city": "Tampa, Florida",
-      "location_region": "FL",
-      "country": "United States",
-      "url": "https://www.tampaairport.com/call-for-artists",
-      "imo_fit_score": 8.0,
-      "pursuit_priority_score": 8.0,
-      "packet_requested": false,
-      "deadline_date": "2026-03-19",
-      "deadline_text": "2026-03-19",
-      "source": "Tampa International Airport",
-      "eligibility_notes": "Open to visual artists working in any medium with experience executing their ideas from concept to installation completion, meeting a specified budget and timeframe, and working in the public realm with public agencies.",
-      "why_fit_note": "This Tampa International Airport public art commission offers a large combined budget of $5.82 million, well aligned with IMO’s demonstrated capability in handling mid-to-large scale public installations with budgets spanning from $40K to $500K in past projects, suggesting good scale and budget alignment. The city's airport setting and the project's public art commission type fit IMO’s expertise in creating immersive, experiential, and publicly legible artworks that enhance civic places. The opportunity allows any visual medium and explicitly involves public realm and agency collaboration, matching IMO's interdisciplinary and integrated art + design + fabrication approach. The project demands robust, durable installations suitable for long-term public use, consistent with IMO’s focus on technical rigor and durability. Narrative and community engagement potential is suggested by the context of an international airport and phased master plan. Practical feasibility and eligibility are confirmed. The deadline in March 2026 provides reasonable time for strategic pursuit. Overall, this is a strategically valuable and feasible opportunity with a high likelihood to leverage IMO’s strengths in immersive, large-scale public art."
-    },
     {
       "canonical_id": "denver-buchtel-boulevard-public-art-rfq-2026",
       "opportunity_name": "City of Denver: Buchtel Boulevard Public Art RFQ",
@@ -67,6 +46,27 @@
       "source": "Artist Trust",
       "eligibility_notes": "Open to professional artists or artist teams living or working in the Pacific Northwest (Washington, Oregon, Idaho, California, and Montana). Applicants may submit up to ten sculptures for consideration.",
       "why_fit_note": "This opportunity aligns with IMO's focus on immersive, public-facing artworks that combine conceptual clarity with technical rigor."
+    },
+    {
+      "canonical_id": "us-ut-ogden-kiesel-ave-cable-art-project-2026",
+      "opportunity_name": "Ogden City Kiesel Ave Cable Art Project",
+      "type": "RFQ",
+      "budget_text": "Total project budget: $120,000.",
+      "budget_min": 120000.0,
+      "budget_max": 120000.0,
+      "budget_currency": "USD",
+      "location_city": "Ogden",
+      "location_region": "Utah",
+      "country": "United States",
+      "url": "https://artist.callforentry.org/festivals_unique_info.php?ID=16966\n",
+      "imo_fit_score": 10.0,
+      "pursuit_priority_score": 8.0,
+      "packet_requested": false,
+      "deadline_date": "2026-03-20",
+      "deadline_text": "Complete application must be received on or before March 20, 2026, by midnight MDT.",
+      "source": "CaFÉ / Ogden City Arts",
+      "eligibility_notes": "Open to artists nationally; Utah-based and Ogden-area artists are strongly encouraged.",
+      "why_fit_note": "Exceptionally aligned with IMO because the brief explicitly supports suspended sculptural, kinetic, and lighting-based installation in a pedestrian urban corridor."
     }
   ]
 }
